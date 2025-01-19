@@ -50,7 +50,7 @@ public class Exam {
             }
 
         }
-        System.out.println("Koniec gry. Twoja liczba punktów to "   +   points);
+        System.out.println("Koniec testu. Twoja liczba punktów to "   +   points);
 
         scanner.close();
 

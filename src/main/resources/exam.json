@@ -1,0 +1,107 @@
+[
+  {
+    "question": "1.Jak nazywa się stolica Armenii?",
+    "a": "Baku",
+    "b": "Erewań",
+    "c": "Tbilisi",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "2.Jak nazywa się stolica Libanu?",
+    "a": "Amman",
+    "b": "Bejrut",
+    "c": "Bagdad",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "3.Jak nazywa się stolica Izraela?",
+    "a": "Tel Awiw",
+    "b": "Jerozolima",
+    "c": "Hajfa",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "4.Jak nazywa się stolica Chorwacji?",
+    "a": "Split",
+    "b": "Belgrad",
+    "c": "Zagrzeb",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "5.Jak nazywa się stolica Kanady?",
+    "a": "Vancouver",
+    "b": "Ottawa",
+    "c": "Toronto",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "6.Jak nazywa się stolica Łotwy?",
+    "a": "Tallin",
+    "b": "Ryga",
+    "c": "Wilno",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "7.Jak nazywa się stolica Wenezueli?",
+    "a": "Bueanos Aires",
+    "b": "Bogota",
+    "c": "Caracas",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "8.Jak nazywa się stolica Uzbekistanu?",
+    "a": "Astana",
+    "b": "Biszkek",
+    "c": "Taszkent",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "9.Jak nazywa się stolica Portugalii?",
+    "a": "Porto",
+    "b": "Lizbona",
+    "c": "Faro",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "10.Jak nazywa się stolica Japonii?",
+    "a": "Tokio",
+    "b": "Osaka",
+    "c": "Seul",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "11.Jak nazywa się stolica Peru?",
+    "a": "Muscat",
+    "b": "Lima",
+    "c": "Belize",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "12.Jak nazywa się stolica Grenlandii?",
+    "a": "Reykjavik",
+    "b": "Nuuk",
+    "c": "Kangerlussuaq",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "13.Jak nazywa się stolica Bułgarii?",
+    "a": "Burgas",
+    "b": "Varna",
+    "c": "Sofia",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "14.Jak nazywa się stolica Arabii Saudysjkiej?",
+    "a": "Jeddah",
+    "b": "Rijad",
+    "c": "Abu Dhabi",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "15.Jak nazywa się stolica Omanu?",
+    "a": "Muscat",
+    "b": "Sallalah",
+    "c": "Aden",
+    "correctAnswer": "a"
+  }
+]

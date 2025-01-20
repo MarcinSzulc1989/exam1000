@@ -38,7 +38,7 @@ public class Exam {
             System.out.println("a: " + question.getA());
             System.out.println("b: " + question.getB());
             System.out.println("c: " + question.getC());
-            System.out.println("Witaj serdecznie! Podaj prawidłową odpowiedź");
+            System.out.println("Podaj prawidłową odpowiedź");
 
             String answer = scanner.nextLine();
 
@@ -51,6 +51,7 @@ public class Exam {
 
         }
         System.out.println("Koniec testu. Twoja liczba punktów to "   +   points);
+        System.out.println("Jeżeli masz więcej niż 10 punktów możesz być z siebie dumny/a:)");
 
         scanner.close();
 
